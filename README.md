@@ -65,7 +65,7 @@ From our monitoring, our model performs well on the majority of classes. However
 
 ## Conclusion
 
-This approach not only showcases the project's innovative use of data engineering practices but also underscores its commitment to advancing classification accuracy.
+Through the strategic use of Google Cloud Storage for data management and Airflow DAG for selective data processing, a streamlined workflow has been established. Local processing of image data, after initial path sampling from GCS, has significantly optimized the project's efficiency. Daily performance checks using accuracy score metrics through SparkSQL have precisely pinpointed and improved underperforming classes. This approach not only showcases the project's innovative use of data engineering practices but also underscores its commitment to advancing classification accuracy.
 
 
 ## References
