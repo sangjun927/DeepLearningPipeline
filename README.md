@@ -65,7 +65,7 @@ From our monitoring, our model performs well on the majority of classes. However
 
 ## Conclusion
 
-*{Insert more details here}*
+This approach not only showcases the project's innovative use of data engineering practices but also underscores its commitment to advancing classification accuracy.
 
 
 ## References
