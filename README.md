@@ -16,7 +16,7 @@ We wanted to create an end-to-end pipeline that can demonstrate how to build a m
 
 ## Data
 
-The [Multi-Label Animal Classification](https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset) data we will be using can be found on kaggle. The Training Data consists of 15 clases (Beetle, Butterfly, Cat, Cow, etc.) with 2000 images each, while the Validation Data has 100-200 per class. The images are in standard .jpg format and stored in class folders.
+The [Multi-Class Animal Classification](https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset) data we will be using can be found on kaggle. The Training Data consists of 15 clases (Beetle, Butterfly, Cat, Cow, etc.) with 2000 images each, while the Validation Data has 100-200 per class. The images are in standard .jpg format and stored in class folders.
 
 ## Model
 
