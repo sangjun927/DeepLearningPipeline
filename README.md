@@ -20,7 +20,7 @@ The [Multi-Class Animal Classification](https://www.kaggle.com/datasets/utkarshs
 
 ## Model
 
-For our multi-label classification model, we will be using PyTorch along with; the Hugging Face's [Transformers](https://huggingface.co/transformers/) library. The model we will be using is the [ResNet50](https://huggingface.co/microsoft/resnet-50) model, which is a pre-trained model that has been trained on ImageNet.
+For our multi-class classification model, we will be using PyTorch along with; the Hugging Face's [Transformers](https://huggingface.co/transformers/) library. The model we will be using is the [ResNet50](https://huggingface.co/microsoft/resnet-50) model, which is a pre-trained model that has been trained on ImageNet.
 
 ```python
 import torch.nn as nn
